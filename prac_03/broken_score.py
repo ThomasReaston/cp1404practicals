@@ -1,5 +1,5 @@
 """
-CP1404/CP5632 - Practical
+CP1404 - Practical
 Broken program to determine score status
 """
 
@@ -22,8 +22,6 @@ def main():
             print("Excellent")
         if score < 50:
             print("Bad")
-
-
 
 
 main()
