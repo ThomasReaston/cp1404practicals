@@ -1,4 +1,4 @@
-"""Program to convert temperatires from C to F and vice versa"""
+"""Program to convert temperatures from C to F and vice versa"""
 
 
 def celsius_to_fahrenheit(temperature_input):
